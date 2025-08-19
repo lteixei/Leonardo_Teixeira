@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Olá, eu sou Leonardo Teixeira
 
 🎯 Sou especialista em automação de testes e Python.
