@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leonardo Teixeira
 
-🎯 Sou especialista em automação de testes e Python.
+🎯 Sou especialista em QA - Automação de Testes e Python.
 
 ---
 
@@ -11,6 +11,8 @@
 ![Pytest](https://img.shields.io/badge/Pytest-7.4.0-orange)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Playwright](https://img.shields.io/badge/Playwright-1.44.0-ff69b4?logo=playwright)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-6.0.1-red?logo=robot-framework)
 
 ---
 
@@ -33,7 +35,7 @@
 
 ## 📫 Contato
 
-📧 Email: leo.teixeira@email.com  
+📧 Email: teixei@hotmail.com  
 💼 LinkedIn: [linkedin.com/in/lteixei](https://linkedin.com/in/lteixei)
 
 ---
