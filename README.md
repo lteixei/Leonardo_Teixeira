@@ -35,7 +35,7 @@
 
 ## 📫 Contato
 
-📧 Email: teixei@hotmail.com  
+📧 Email: lteixei@hotmail.com  
 💼 LinkedIn: [linkedin.com/in/lteixei](https://linkedin.com/in/lteixei)
 
 ---
