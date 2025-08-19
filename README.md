@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leonardo Teixeira
 
-🎯 Sou especialista em QA - Automação de Testes e Python.
+🎯 Sou especialista em QA - Automação de Testes, Java e Python.
 
 ---
 
