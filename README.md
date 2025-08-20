@@ -66,7 +66,7 @@
 |---------|-----------|
 | [Testes_Funcionais](https://github.com/lteixei/Testes_Funcionais) | Automação funcional com Python, Selenium e Robot Framework |
 | [API_Automation](https://github.com/lteixei/API_Automation) | Testes de APIs REST com Python, Pytest e Allure |
-| [Python_Automation](https://github.com/lteixei/Login_Automation) | Testes simulados de login com validação de fluxo e relatórios em Allure |
+| [Login_Automation_Python](https://github.com/lteixei/Login_Automation) | Testes simulados de login com validação de fluxo e relatórios em Allure |
 | [Selenium_Java_POM](https://github.com/lteixei/Selenium_Java_POM) | Automação Web em Java usando Selenium, JUnit e Page Object Model |
 | [RobotFramework_Widgets](https://github.com/lteixei/RobotFramework_Widgets) | Testes funcionais usando Robot Framework com estrutura modular por recurso |
 | [Testes_Unitários](https://github.com/lteixei/Calculadora_UnitTest_Java) | Testes unitários de operações matemáticas com JUnit 5 em Java |
