@@ -5,8 +5,10 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas para Automação de Teste de meu conhecimento
+
 ---
-🧪 Test Automation  
+
+### 🧪 Test Automation  
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.10.0-green)
 ![Pytest](https://img.shields.io/badge/Pytest-7.4.0-orange)
@@ -26,7 +28,7 @@
 
 ---
 
-⚙️ CI/CD & DevOps  
+### ⚙️ CI/CD & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-16.8.0-FC6D26?logo=gitlab)
@@ -36,25 +38,25 @@
 
 ---
 
-☁️ Cloud Testing Platforms  
+### ☁️ Cloud Testing Platforms  
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-Automation-FF9900?logo=browserstack)
 ![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-Cloud_Testing-E2231A?logo=saucelabs)
 
 ---
 
-💬 BDD Tools  
+### 💬 BDD Tools  
 ![Cucumber](https://img.shields.io/badge/Cucumber-12.2.0-23D96C?logo=cucumber)
 ![Behave](https://img.shields.io/badge/Behave-1.2.6-9ACD32?logo=python)
 
 ---
 
-⚡ Performance Testing  
+### ⚡ Performance Testing  
 ![JMeter](https://img.shields.io/badge/JMeter-5.6.3-D22128?logo=apache)
 ![k6](https://img.shields.io/badge/k6-0.49.0-7D64FF?logo=k6)
 
 ---
 
-💻 Languages  
+### 💻 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-20.11.1-339933?logo=nodedotjs)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
