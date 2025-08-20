@@ -103,132 +103,125 @@ Cypress_Automation
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=lteixei&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lteixei&layout=compact&theme=dark)
-
----
-
-### Aqui está um resumo simples e organizado das automações que compartilho, com foco no tipo de teste, linguagem, ferramenta principal:
+### Aqui está um resumo simples e organizado das automações que compartilho, com foco no tipo de teste, linguagem e principais ferramentas:
 
 ## ✅ 1. Teste de API com Pytest + Allure
 
-Linguagem: Python
+- Linguagem: Python
 
-Ferramentas: Pytest, Allure, Requests
+- Ferramentas: Pytest, Allure, Requests
 
-Tipo: Teste de API (GET, POST), com validação de status e schema
+- Tipo: Teste de API (GET, POST), com validação de status e schema
 
-Comentário: Testes organizados, parametrizados e com relatórios via Allure.
+- Comentário: Testes organizados, parametrizados e com relatórios via Allure.
 
 ---
 
 ## ✅ 2. Teste de Login com Pytest + Allure
 
-Linguagem: Python
+- Linguagem: Python
 
-Ferramentas: Pytest, Allure
+- Ferramentas: Pytest, Allure
 
-Tipo: Teste simulado (login sucesso e falha)
+- Tipo: Teste simulado (login sucesso e falha)
 
-Comentário: Uso de allure.step() para rastrear cada etapa do fluxo.
+- Comentário: Uso de allure.step() para rastrear cada etapa do fluxo.
 
 ---
 
 ## ✅ 3. Selenium com Java (JUnit + Allure)
 
-Linguagem: Java
+- Linguagem: Java
 
-Ferramentas: Selenium, JUnit, Allure
+- Ferramentas: Selenium, JUnit, Allure
 
-Tipo: Teste funcional web
+- Tipo: Teste funcional web
 
-Comentário: Interação com popups, abas e múltiplas janelas, estruturado em POM.
+- Comentário: Interação com popups, abas e múltiplas janelas, estruturado em POM.
 
 ---
 
 ## ✅ 4. Robot Framework
 
-Linguagem: DSL (high-level keywords)
+- Linguagem: DSL (high-level keywords)
 
-Ferramentas: Robot Framework
+- Ferramentas: Robot Framework
 
-Tipo: Teste funcional (WIDGETS e navegação)
+- Tipo: Teste funcional (WIDGETS e navegação)
 
-Comentário: Leitura intuitiva, com Test Setup/Teardown e keywords reutilizáveis.
+- Comentário: Leitura intuitiva, com Test Setup/Teardown e keywords reutilizáveis.
 
 ---
 
 ## ✅ 5. Teste Unitário com JUnit
 
-Linguagem: Java
+- Linguagem: Java
 
-Ferramentas: JUnit
+- Ferramentas: JUnit
 
-Tipo: Teste unitário (funções de calculadora)
+- Tipo: Teste unitário (funções de calculadora)
 
-Comentário: Cobertura completa das operações básicas, incluindo erro esperado.
+- Comentário: Cobertura completa das operações básicas, incluindo erro esperado.
 
 ---
 
 ## ✅ 6. Teste Funcional com Cucumber + Selenium (JavaScript)
 
-Linguagem: JavaScript
+- Linguagem: JavaScript
 
-Ferramentas: Cucumber.js, Selenium WebDriver
+- Ferramentas: Cucumber.js, Selenium WebDriver
 
-Tipo: Teste funcional BDD
+- Tipo: Teste funcional BDD
 
-Comentário: Simples, com Given/When/Then e verificação de texto.
+- Comentário: Simples, com Given/When/Then e verificação de texto.
 
 ---
 
 ## ✅ 7. Playwright com TypeScript
 
-Linguagem: TypeScript
+- Linguagem: TypeScript
 
-Ferramentas: Playwright
+- Ferramentas: Playwright
 
-Tipo: Teste funcional web
+- Tipo: Teste funcional web
 
-Comentário: Testes robustos com alertas, múltiplas janelas e iframes.
+- Comentário: Testes robustos com alertas, múltiplas janelas e iframes.
 
 ---
 
 ## ✅ 8. Cucumber + JUnit 5 (Java)
 
-Linguagem: Java
+- Linguagem: Java
 
-Ferramentas: Cucumber-JVM, JUnit 5
+- Ferramentas: Cucumber-JVM, JUnit 5
 
-Tipo: Teste BDD funcional
+- Tipo: Teste BDD funcional
 
-Comentário: Estrutura modular com feature file + steps + runner.
+- Comentário: Estrutura modular com feature file + steps + runner.
 
 ---
 
 ## ✅ 9. Cucumber.js (Node.js)
 
-Linguagem: JavaScript (Node.js)
+- Linguagem: JavaScript (Node.js)
 
-Ferramentas: Cucumber.js
+- Ferramentas: Cucumber.js
 
-Tipo: Teste BDD funcional
+- Tipo: Teste BDD funcional
 
-Comentário: Teste leve com console.log, pronto para integração com Playwright ou Puppeteer.
+- Comentário: Teste leve com console.log, pronto para integração com Playwright ou Puppeteer.
 
 ---
 
 ## ✅ 10. Cypress (menção futura)
 
-Linguagem: JavaScript
+- Linguagem: JavaScript
 
-Ferramenta: Cypress
+- Ferramenta: Cypress
 
-Tipo: Teste de front-end moderno
+- Tipo: Teste de front-end moderno
 
-Comentário: Ideal para testes em UI, com execução rápida e visual.
+- Comentário: Ideal para testes em UI, com execução rápida e visual.
 
 ---
 
