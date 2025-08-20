@@ -76,26 +76,9 @@
 | [Cypress_Automation](https://github.com/lteixei/Cypress_Automation) | Testes de front-end com Cypress para validações rápidas em aplicações web |
 | [Tosca_Automation](https://github.com/lteixei/Tosca_Automation) | Automação de testes com Tricentis Tosca, focando em testes funcionais e de regressão sem código |
 
-
-| Projeto | Descrição |
-|---------|-----------|
-| [Testes_Funcionais](https://github.com/lteixei/Testes_Funcionais) | Automação funcional com Python, Selenium e Robot Framework |
-| [API_Automation](https://github.com/lteixei/API_Automation) | Testes de APIs REST com Python, Pytest e Allure |
-| [Testes_Funcionais](https://github.com/lteixei/Testes_Funcionais) | Automação funcional com Python, Selenium e Robot Framework |
-| [API_Automation](https://github.com/lteixei/API_Automation) | Testes de APIs REST com Python, Pytest e Allure |
-| [Login_Automation](https://github.com/lteixei/Login_Automation) | Testes simulados de login com validação de fluxo e relatórios em Allure |
-| [Selenium_Java_POM](https://github.com/lteixei/Selenium_Java_POM) | Automação Web em Java usando Selenium, JUnit e Page Object Model |
-| [RobotFramework_Widgets](https://github.com/lteixei/RobotFramework_Widgets) | Testes funcionais usando Robot Framework com estrutura modular por recurso |
-| [Calculadora_UnitTest_Java](https://github.com/lteixei/Calculadora_UnitTest_Java) | Testes unitários de operações matemáticas com JUnit 5 em Java |
-| [BDD_CucumberJS](https://github.com/lteixei/BDD_CucumberJS) | Testes BDD em JavaScript com Cucumber.js e estrutura modular |
-| [Playwright_TestSuite](https://github.com/lteixei/Playwright_TestSuite) | Testes funcionais com Playwright + TypeScript incluindo alertas, janelas e iframes |
-| [BDD_Cucumber_Java](https://github.com/lteixei/BDD_Cucumber_Java) | Projeto de testes BDD com Java, Cucumber-JVM e relatórios HTML |
-| [Cypress_Automation](https://github.com/lteixei/Cypress_Automation) | Testes de front-end com Cypress para validações rápidas em aplicações web |
-| [Tosca_Automation](https://github.com/lteixei/Tosca_Automation) | Automação de testes com Tricentis Tosca, focando em testes funcionais e de regressão sem código |
-
 ---
 
-### Aqui está um resumo simples e organizado das automações que compartilho, com foco no tipo de teste, linguagem e principais ferramentas:
+### Resumo simples e organizado das automações, com foco no tipo de teste, linguagem e principais ferramentas:
 
 ## ✅ 1. Teste de API com Pytest + Allure
 
