@@ -17,6 +17,7 @@
 ![TestNG](https://img.shields.io/badge/TestNG-7.10.1-FF6F00?logo=testng)
 ![Jest](https://img.shields.io/badge/Jest-29.6.4-C21325?logo=jest)
 ![Mocha](https://img.shields.io/badge/Mocha-10.3.0-8D6748?logo=mocha)
+![Tosca](https://img.shields.io/badge/Tosca-14.0-brightgreen?logo=tricentis)
 
 ---
 
