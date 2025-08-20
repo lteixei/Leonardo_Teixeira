@@ -69,7 +69,7 @@
 | [Login_Automation](https://github.com/lteixei/Login_Automation) | Testes simulados de login com validação de fluxo e relatórios em Allure |
 | [Selenium_Java_POM](https://github.com/lteixei/Selenium_Java_POM) | Automação Web em Java usando Selenium, JUnit e Page Object Model |
 | [RobotFramework_Widgets](https://github.com/lteixei/RobotFramework_Widgets) | Testes funcionais usando Robot Framework com estrutura modular por recurso |
-| [Calculadora_UnitTest_Java](https://github.com/lteixei/Calculadora_UnitTest_Java) | Testes unitários de operações matemáticas com JUnit 5 em Java |
+| [Testes_Unitários](https://github.com/lteixei/Calculadora_UnitTest_Java) | Testes unitários de operações matemáticas com JUnit 5 em Java |
 | [BDD_CucumberJS](https://github.com/lteixei/BDD_CucumberJS) | Testes BDD em JavaScript com Cucumber.js e estrutura modular |
 | [Playwright_TestSuite](https://github.com/lteixei/Playwright_TestSuite) | Testes funcionais com Playwright + TypeScript incluindo alertas, janelas e iframes |
 | [BDD_Cucumber_Java](https://github.com/lteixei/BDD_Cucumber_Java) | Projeto de testes BDD com Java, Cucumber-JVM e relatórios HTML |
