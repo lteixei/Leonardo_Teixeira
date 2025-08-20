@@ -201,11 +201,12 @@
 ---
 
 ## 🧩 Visão Geral Rápida  
-Tipo de Teste	Linguagens	Ferramentas  
-API	Python	Pytest, Allure, Requests  
-Unitário	Java	JUnit  
-Funcional (UI)	Java, JS, Python	Selenium, Robot, Playwright, Cypress  
-BDD (comportamento)	Java, JS	Cucumber (JVM & JS)
+| Tipo de Teste | Linguagen | Ferramentas |
+|---------|-----------|-----------|
+|API | 	Python  | Pytest, Allure, Requests |
+|Unitário | Java | JUnit |
+|Funcional (UI) | Java | JS, Python	Selenium, Robot, Playwright, Cypress |
+|BDD (comportamento) | Java | JS	Cucumber (JVM & JS) |
 
 ---
 
