@@ -1,14 +1,14 @@
-# 👋 Olá, sou Leonardo Teixeira
+# 👋 Olá, sou **Leonardo Teixeira**
 
-🎯 Especialista em QA - Automação de Testes, Java e Python.
-
----
-
-## 🛠️ Tecnologias e Ferramentas para Automação de Teste de meu conhecimento
+🎯 Especialista em QA - Automação de Testes, **Java** e **Python**.
 
 ---
 
-### 📊 Test Automation  
+## 🛠️ Tecnologias e Ferramentas para Automação de Testes
+
+### 📊 Test Automation
+Aqui estão algumas das tecnologias que utilizo:
+
 ![Allure](https://img.shields.io/badge/Allure_Report-2.27.0-1E1E2E?logo=allure)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.10.0-green)
@@ -24,12 +24,16 @@
 
 ---
 
-### 📊 Test Reports & Monitoring  
+### 📊 Test Reports & Monitoring
+Ferramentas para gerar e monitorar relatórios:
+
 ![Allure](https://img.shields.io/badge/Allure_Report-2.27.0-1E1E2E?logo=allure)
 
 ---
 
-### ⚙️ CI/CD & DevOps  
+### ⚙️ CI/CD & DevOps
+Ferramentas para Integração e Entrega Contínua:
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-16.8.0-FC6D26?logo=gitlab)
@@ -39,34 +43,43 @@
 
 ---
 
-### ☁️ Cloud Testing Platforms  
+### ☁️ Cloud Testing Platforms
+Plataformas para testar em nuvem:
+
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-Automation-FF9900?logo=browserstack)
 ![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-Cloud_Testing-E2231A?logo=saucelabs)
 
 ---
 
-### 💬 BDD Tools  
+### 💬 BDD Tools
+Ferramentas para BDD:
+
 ![Cucumber](https://img.shields.io/badge/Cucumber-12.2.0-23D96C?logo=cucumber)
 ![Behave](https://img.shields.io/badge/Behave-1.2.6-9ACD32?logo=python)
 
 ---
 
-### ⚡ Performance Testing  
+### ⚡ Performance Testing
+Ferramentas para teste de performance:
+
 ![JMeter](https://img.shields.io/badge/JMeter-5.6.3-D22128?logo=apache)
 ![k6](https://img.shields.io/badge/k6-0.49.0-7D64FF?logo=k6)
 
 ---
 
-### 💻 Languages  
+### 💻 Languages
+Linguagens de programação que utilizo:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-20.11.1-339933?logo=nodedotjs)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
 
 ---
 
-## 🔹 Projetos em destaque
-| Projeto | Descrição |
-|---------|-----------|
+## 🔹 Projetos em Destaque
+
+| **Projeto** | **Descrição** |
+|-------------|---------------|
 | [Testes_Funcionais](https://github.com/lteixei/Testes_Funcionais) | Automação funcional com Python, Selenium e Robot Framework |
 | [API_Automation](https://github.com/lteixei/API_Automation) | Testes de APIs REST com Python, Pytest e Allure |
 | [Login_Automation_Python](https://github.com/lteixei/Login_Automation) | Testes simulados de login com validação de fluxo e relatórios em Allure |
@@ -81,105 +94,105 @@
 
 ---
 
-### 🧪 Resumo simples e organizado das automações, com foco no tipo de teste, linguagem e principais ferramentas:
+### 🧪 Resumo Simples e Organizado das Automations, com Foco no Tipo de Teste, Linguagem e Principais Ferramentas:
 
 ## ✅ 1. Teste de API com Pytest + Allure
 
-- Linguagem: Python
-- Ferramentas: Pytest, Allure, Requests
-- Tipo: Teste de API (GET, POST), com validação de status e schema
-- Comentário: Testes organizados, parametrizados e com relatórios via Allure.
+- **Linguagem**: Python
+- **Ferramentas**: Pytest, Allure, Requests
+- **Tipo**: Teste de API (GET, POST), com validação de status e schema
+- **Comentário**: Testes organizados, parametrizados e com relatórios via Allure.
 
 ---
 
 ## ✅ 2. Teste de Login com Pytest + Allure
 
-- Linguagem: Python
-- Ferramentas: Pytest, Allure
-- Tipo: Teste simulado (login sucesso e falha)
-- Comentário: Uso de allure.step() para rastrear cada etapa do fluxo.
+- **Linguagem**: Python
+- **Ferramentas**: Pytest, Allure
+- **Tipo**: Teste simulado (login sucesso e falha)
+- **Comentário**: Uso de allure.step() para rastrear cada etapa do fluxo.
 
 ---
 
 ## ✅ 3. Selenium com Java (JUnit + Allure)
 
-- Linguagem: Java
-- Ferramentas: Selenium, JUnit, Allure
-- Tipo: Teste funcional web
-- Comentário: Interação com popups, abas e múltiplas janelas, estruturado em POM.
+- **Linguagem**: Java
+- **Ferramentas**: Selenium, JUnit, Allure
+- **Tipo**: Teste funcional web
+- **Comentário**: Interação com popups, abas e múltiplas janelas, estruturado em POM.
 
 ---
 
 ## ✅ 4. Robot Framework
 
-- Linguagem: DSL (high-level keywords)
-- Ferramentas: Robot Framework
-- Tipo: Teste funcional (WIDGETS e navegação)
-- Comentário: Leitura intuitiva, com Test Setup/Teardown e keywords reutilizáveis.
+- **Linguagem**: DSL (high-level keywords)
+- **Ferramentas**: Robot Framework
+- **Tipo**: Teste funcional (WIDGETS e navegação)
+- **Comentário**: Leitura intuitiva, com Test Setup/Teardown e keywords reutilizáveis.
 
 ---
 
 ## ✅ 5. Teste Unitário com JUnit
 
-- Linguagem: Java
-- Ferramentas: JUnit
-- Tipo: Teste unitário (funções de calculadora)
-- Comentário: Cobertura completa das operações básicas, incluindo erro esperado.
+- **Linguagem**: Java
+- **Ferramentas**: JUnit
+- **Tipo**: Teste unitário (funções de calculadora)
+- **Comentário**: Cobertura completa das operações básicas, incluindo erro esperado.
 
 ---
 
 ## ✅ 6. Teste Funcional com Cucumber + Selenium (JavaScript)
 
-- Linguagem: JavaScript
-- Ferramentas: Cucumber.js, Selenium WebDriver
-- Tipo: Teste funcional BDD
-- Comentário: Simples, com Given/When/Then e verificação de texto.
+- **Linguagem**: JavaScript
+- **Ferramentas**: Cucumber.js, Selenium WebDriver
+- **Tipo**: Teste funcional BDD
+- **Comentário**: Simples, com Given/When/Then e verificação de texto.
 
 ---
 
 ## ✅ 7. Playwright com TypeScript
 
-- Linguagem: TypeScript
-- Ferramentas: Playwright
-- Tipo: Teste funcional web
-- Comentário: Testes robustos com alertas, múltiplas janelas e iframes.
+- **Linguagem**: TypeScript
+- **Ferramentas**: Playwright
+- **Tipo**: Teste funcional web
+- **Comentário**: Testes robustos com alertas, múltiplas janelas e iframes.
 
 ---
 
 ## ✅ 8. Cucumber + JUnit 5 (Java)
 
-- Linguagem: Java
-- Ferramentas: Cucumber-JVM, JUnit 5
-- Tipo: Teste BDD funcional
-- Comentário: Estrutura modular com feature file + steps + runner.
+- **Linguagem**: Java
+- **Ferramentas**: Cucumber-JVM, JUnit 5
+- **Tipo**: Teste BDD funcional
+- **Comentário**: Estrutura modular com feature file + steps + runner.
 
 ---
 
 ## ✅ 9. Cucumber.js (Node.js)
 
-- Linguagem: JavaScript (Node.js)
-- Ferramentas: Cucumber.js
-- Tipo: Teste BDD funcional
-- Comentário: Teste leve com console.log, pronto para integração com Playwright ou Puppeteer.
+- **Linguagem**: JavaScript (Node.js)
+- **Ferramentas**: Cucumber.js
+- **Tipo**: Teste BDD funcional
+- **Comentário**: Teste leve com console.log, pronto para integração com Playwright ou Puppeteer.
 
 ---
 
 ## ✅ 10. Cypress (menção futura)
 
-- Linguagem: JavaScript
-- Ferramenta: Cypress
-- Tipo: Teste de front-end moderno
-- Comentário: Ideal para testes em UI, com execução rápida e visual.
+- **Linguagem**: JavaScript
+- **Ferramenta**: Cypress
+- **Tipo**: Teste de front-end moderno
+- **Comentário**: Ideal para testes em UI, com execução rápida e visual.
 
 ---
 
 ## 🧩 Visão Geral Rápida  
-| Tipo de Teste | Linguagen | Ferramentas |
-|---------|-----------|-----------|
-|API | 	Python  | Pytest, Allure, Requests |
-|Unitário | Java | JUnit |
-|Funcional (UI) | Java | JS, Python	Selenium, Robot, Playwright, Cypress |
-|BDD (comportamento) | Java | JS	Cucumber (JVM & JS) |
+| **Tipo de Teste**  | **Linguagem**  | **Ferramentas**  |
+|--------------------|----------------|------------------|
+| **API**            | Python         | Pytest, Allure, Requests |
+| **Unitário**       | Java           | JUnit            |
+| **Funcional (UI)** | Java, JS, Python| Selenium, Robot, Playwright, Cypress |
+| **BDD**            | Java, JS       | Cucumber (JVM & JS) |
 
 ---
 
@@ -187,4 +200,5 @@
 
 📧 Email: lteixei@hotmail.com  
 💼 LinkedIn: [linkedin.com/in/lteixei](https://linkedin.com/in/lteixei)
+
 
