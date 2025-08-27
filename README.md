@@ -5,6 +5,11 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas para Automação de Teste de meu conhecimento
+
+---
+
+### 📊 Test Automation  
+![Allure](https://img.shields.io/badge/Allure_Report-2.27.0-1E1E2E?logo=allure)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.10.0-green)
 ![Pytest](https://img.shields.io/badge/Pytest-7.4.0-orange)
