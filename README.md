@@ -1,4 +1,4 @@
-# 👋 Olá, sou **Leonardo Teixeira**
+# 👋 Olá, sou **Leonardo da Motta Teixeira**
 
 🎯 Especialista em QA - Automação de Testes, **Java** e **Python**.
 
