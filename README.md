@@ -5,10 +5,6 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas para Automação de Teste de meu conhecimento
-
----
-
-### 🧪 Test Automation  
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.10.0-green)
 ![Pytest](https://img.shields.io/badge/Pytest-7.4.0-orange)
@@ -80,7 +76,7 @@
 
 ---
 
-### 🔹 Resumo simples e organizado das automações, com foco no tipo de teste, linguagem e principais ferramentas:
+### 🧪 Resumo simples e organizado das automações, com foco no tipo de teste, linguagem e principais ferramentas:
 
 ## ✅ 1. Teste de API com Pytest + Allure
 
