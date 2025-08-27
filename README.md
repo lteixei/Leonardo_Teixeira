@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas para Automação de Testes
 
-### 📊 Test Automation
+### 🧪 Test Automation
 Aqui estão algumas das tecnologias que utilizo:
 
 ![Allure](https://img.shields.io/badge/Allure_Report-2.27.0-1E1E2E?logo=allure)
@@ -94,7 +94,7 @@ Linguagens de programação que utilizo:
 
 ---
 
-### 🧪 Resumo Simples e Organizado das Automations, com Foco no Tipo de Teste, Linguagem e Principais Ferramentas:
+### 🔹 Resumo Simples e Organizado das Automations, com Foco no Tipo de Teste, Linguagem e Principais Ferramentas:
 
 ## ✅ 1. Teste de API com Pytest + Allure
 
